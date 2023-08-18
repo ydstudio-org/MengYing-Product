@@ -4,6 +4,7 @@
 
 ## 流量卡的常见问题Q\&A <a href="#qa" id="qa"></a>
 
+* [注意事项](qa/zhu-yi-shi-xiang.md)
 * [卡号相关](qa/1.md)
 * [APN设置](qa/3.md)
 * [安卓系统设置](qa/2.md)
@@ -13,4 +14,4 @@
 
 ***
 
-* [注意事项](zhu-yi-shi-xiang.md)
+* [各种卡的结算清零规则](ge-zhong-ka-de-jie-suan-qing-ling-gui-ze.md)
