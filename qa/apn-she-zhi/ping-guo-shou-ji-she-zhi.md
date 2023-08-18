@@ -1,0 +1,15 @@
+# 😄 苹果手机设置
+
+## 第一步
+
+![](<../../.gitbook/assets/image (5).png>)
+
+## 第二步
+
+![](<../../.gitbook/assets/image (6).png>)
+
+## 第三步
+
+![](<../../.gitbook/assets/image (7).png>)
+
+## 第四步:设置完成点击保存

@@ -1,4 +1,4 @@
-# 卡号相关
+# 😄 卡号相关
 
 ## 怎么看卡号？
 
@@ -12,11 +12,11 @@
 
 ### 例如短号：
 
-![](../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (8).png>)
 
 ### 例如直接是iccid
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 
 
