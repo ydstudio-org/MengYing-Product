@@ -10,3 +10,8 @@
   * [卡号相关](qa/3/1.md)
   * [安卓系统设置](qa/3/2.md)
   * [苹果手机设置](qa/3/3.md)
+
+***
+
+* [测试页面](ce-shi-ye-mian.md)
+* [Hacknet HeartBeat 游戏线索](hacknet-heartbeat-you-xi-xian-suo.md)

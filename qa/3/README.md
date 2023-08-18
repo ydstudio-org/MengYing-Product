@@ -1,4 +1,4 @@
-# 😀 APN设置教程
+# APN设置
 
 联通的APN是：scuiot\
 移动的APN是：cmiot\
