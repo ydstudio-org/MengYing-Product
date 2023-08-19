@@ -8,3 +8,13 @@
 
 \
 联通可实名10张（不占用联通名额）
+
+## 套餐资费问题
+
+
+
+<div align="center" data-full-width="true">
+
+<figure><img src="../.gitbook/assets/956c68624f26058a648562e948605ee3.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
