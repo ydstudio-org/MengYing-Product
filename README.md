@@ -20,38 +20,12 @@ layout:
 
 # 流量卡帮助中心
 
-## 流量卡使用说明
+## 流量卡充值使用说明
 
-第一步： 微信扫一扫二维码，长按公众号二维码关注点击查询使用
+<figure><img src=".gitbook/assets/6cad506409cbe1e4320b32251944232.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/6ffafb0ccd8d34d5765c705d75ce0b8.jpg" alt=""><figcaption></figcaption></figure>
 
-
-<figure><img src=".gitbook/assets/1.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-第二步：长按二维码-点击公众号名片-关注公众号
-
-
-
-<figure><img src=".gitbook/assets/2.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-第三步：点击查询使用按钮-输入流量卡卡号点击登录
-
-
-
-<figure><img src=".gitbook/assets/3.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-第四步：先选择余额充值-在选择充值套餐
-
-
-
-<figure><img src=".gitbook/assets/4.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-第五步：点击官方实名，点击跳转，根据提示进行下一步
-
-
-
-<figure><img src=".gitbook/assets/5.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-第六步：完成以上步骤，开关一下飞行模式或者重启手机即可上网，如果不能上网请联系在线客服处理
+完成以上步骤，开关一下飞行模式或者重启手机即可上网，如果不能上网请设置相关：[**APN**](qa/3.md)
 
 找不到问题的解决办法请联系客服或者发送邮件到：：740762356@qq.com

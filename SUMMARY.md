@@ -9,9 +9,6 @@
 * [APN设置](qa/3.md)
 * [安卓系统设置](qa/2.md)
 * [苹果手机设置](qa/3-1.md)
+* [结算清零规则](qa/jie-suan-qing-ling-gui-ze.md)
 * [联通限制手机吗？](qa/1-1.md)
 * [联通卡显示3G网络的原因](qa/2-1.md)
-
-***
-
-* [各种卡的结算清零规则](ge-zhong-ka-de-jie-suan-qing-ling-gui-ze.md)
